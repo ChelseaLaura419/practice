@@ -1,0 +1,26 @@
+h1 {
+    color: blueviolet
+}
+
+h2 {
+    color: purple;
+    font-family: cursive
+}
+
+p {
+    font-family: sans-serif
+}
+
+.littleExtra {
+    font-style: oblique;
+    color: navy;
+    font-size: 15pt
+}
+
+.littleExtra:hover {
+    color: red
+}
+
+.link {
+    color: rebeccapurple
+}
